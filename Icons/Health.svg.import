@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cyki36gbljtya"
-path="res://.godot/imported/Health.svg-da90831a288c2e5f460b988a4ca699c3.ctex"
+path="res://.godot/imported/Health.svg-b544c323f473be84ee9b136b4627a8ac.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Gruff/Icons/Health.svg"
-dest_files=["res://.godot/imported/Health.svg-da90831a288c2e5f460b988a4ca699c3.ctex"]
+source_file="res://GruffNodes/Icons/Health.svg"
+dest_files=["res://.godot/imported/Health.svg-b544c323f473be84ee9b136b4627a8ac.ctex"]
 
 [params]
 

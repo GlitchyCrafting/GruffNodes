@@ -2,7 +2,7 @@ using Godot;
 
 namespace Gruff.Components._2D {
     [Tool]
-    [GlobalClass, Icon("res://Gruff/Icons/AreaSensor.svg")]
+    [GlobalClass, Icon("res://GruffNodes/Icons/AreaSensor.svg")]
     public partial class AreaSensor : Area2D, EnvSensor
     {
         [Signal]

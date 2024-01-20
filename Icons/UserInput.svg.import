@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dqjd6ma3yy0ku"
-path="res://.godot/imported/UserInput.svg-7df852f7b43cb839e8589b0a1ab69639.ctex"
+path="res://.godot/imported/UserInput.svg-e69c271a6a260e59e1d1c1b94dd7c018.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Gruff/Icons/UserInput.svg"
-dest_files=["res://.godot/imported/UserInput.svg-7df852f7b43cb839e8589b0a1ab69639.ctex"]
+source_file="res://GruffNodes/Icons/UserInput.svg"
+dest_files=["res://.godot/imported/UserInput.svg-e69c271a6a260e59e1d1c1b94dd7c018.ctex"]
 
 [params]
 

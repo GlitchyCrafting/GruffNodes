@@ -2,7 +2,7 @@ using Godot;
 
 namespace Gruff.Components {
     [Tool]
-    [GlobalClass, Icon("res://Gruff/Icons/Health.svg")]
+    [GlobalClass, Icon("res://GruffNodes/Icons/Health.svg")]
     public partial class Health : Node
     {
         private double _value;

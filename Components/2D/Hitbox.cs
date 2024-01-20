@@ -2,7 +2,7 @@ using Godot;
 
 namespace Gruff.Components._2D {
     [Tool]
-    [GlobalClass, Icon("res://Gruff/Icons/Hitbox.svg")]
+    [GlobalClass, Icon("res://GruffNodes/Icons/Hitbox.svg")]
     public partial class Hitbox : Area2D
     {
         [Export]

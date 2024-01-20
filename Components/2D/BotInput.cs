@@ -4,7 +4,7 @@ using Vec2 = Godot.Vector2;
 
 namespace Gruff.Components._2D {
     [Godot.Tool]
-    [Godot.GlobalClass, Godot.Icon("res://Gruff/Icons/BotInput.svg")]
+    [Godot.GlobalClass, Godot.Icon("res://GruffNodes/Icons/BotInput.svg")]
     public partial class BotInput : Input
     {
         [Export] public Vec2 target = Vec2.Zero;

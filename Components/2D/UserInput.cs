@@ -3,7 +3,7 @@ using GI = Godot.Input;
 
 namespace Gruff.Components._2D {
     [Godot.Tool]
-    [Godot.GlobalClass, Godot.Icon("res://Gruff/Icons/UserInput.svg")]
+    [Godot.GlobalClass, Godot.Icon("res://GruffNodes/Icons/UserInput.svg")]
     public partial class UserInput : Input
     {
         private string[] actions = {

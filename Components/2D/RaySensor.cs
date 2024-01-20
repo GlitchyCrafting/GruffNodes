@@ -2,7 +2,7 @@ using Godot;
 
 namespace Gruff.Components._2D {
     [Tool]
-    [GlobalClass, Icon("res://Gruff/Icons/RaySensor.svg")]
+    [GlobalClass, Icon("res://GruffNodes/Icons/RaySensor.svg")]
     public partial class RaySensor : RayCast2D, EnvSensor
     {
         [Signal]
